@@ -17,5 +17,5 @@ permissions:
 commands:
   blockman:
     description: "Create a block man!"
-    usage: "/blockman [command] [args]"
+    usage: "/blockman [Id/Name] [args]"
     permission: blockman.command
